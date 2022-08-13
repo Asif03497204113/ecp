@@ -1,0 +1,39 @@
+h1{
+
+color: red;
+text-align: center;
+
+}
+
+body{
+
+text-align: center;
+}
+
+a{
+
+text-decoration-line: none;
+background-color: red;
+padding: 5px 10px;
+}
+
+a:link{
+
+ color:blue;
+}
+a:visited{
+
+color:black;
+}
+
+a:hover{
+
+color: Green;
+background-color: white;
+
+}
+
+a:active{
+
+color: pink;
+}
